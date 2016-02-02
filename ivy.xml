@@ -1,0 +1,15 @@
+<ivy-module version="2.0">
+
+    <info organisation="com.lucasmouilleron" module="reactiveXBoilerplate"/>
+
+    <configurations defaultconfmapping="default->default">
+        <conf name="default"/>
+    </configurations>
+
+    <dependencies>
+
+        <!--///////////////////////////////////////////////////////////////-->
+        <dependency org="io.reactivex" name="rxjava" rev="1.1.0" />
+
+    </dependencies>
+</ivy-module>
